@@ -1,0 +1,15 @@
+D:\Net8\DemoJenkins\DemoJenkins\obj\Release\net8.0\PubTmp\Out\DemoJenkins.exe
+D:\Net8\DemoJenkins\DemoJenkins\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Net8\DemoJenkins\DemoJenkins\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Net8\DemoJenkins\DemoJenkins\obj\Release\net8.0\PubTmp\Out\DemoJenkins.dll
+D:\Net8\DemoJenkins\DemoJenkins\obj\Release\net8.0\PubTmp\Out\DemoJenkins.deps.json
+D:\Net8\DemoJenkins\DemoJenkins\obj\Release\net8.0\PubTmp\Out\DemoJenkins.runtimeconfig.json
+D:\Net8\DemoJenkins\DemoJenkins\obj\Release\net8.0\PubTmp\Out\DemoJenkins.pdb
+D:\Net8\DemoJenkins\DemoJenkins\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Net8\DemoJenkins\DemoJenkins\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+D:\Net8\DemoJenkins\DemoJenkins\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Net8\DemoJenkins\DemoJenkins\obj\Release\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Net8\DemoJenkins\DemoJenkins\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Net8\DemoJenkins\DemoJenkins\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Net8\DemoJenkins\DemoJenkins\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Net8\DemoJenkins\DemoJenkins\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
