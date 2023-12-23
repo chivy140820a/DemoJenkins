@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Net8\\DemoJenkins\\DemoJenkins\\DemoJenkins.csproj": {}
+    "D:\\Net8JK\\DemoJenkins\\DemoJenkins\\DemoJenkins.csproj": {}
   },
   "projects": {
-    "D:\\Net8\\DemoJenkins\\DemoJenkins\\DemoJenkins.csproj": {
+    "D:\\Net8JK\\DemoJenkins\\DemoJenkins\\DemoJenkins.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Net8\\DemoJenkins\\DemoJenkins\\DemoJenkins.csproj",
+        "projectUniqueName": "D:\\Net8JK\\DemoJenkins\\DemoJenkins\\DemoJenkins.csproj",
         "projectName": "DemoJenkins",
-        "projectPath": "D:\\Net8\\DemoJenkins\\DemoJenkins\\DemoJenkins.csproj",
+        "projectPath": "D:\\Net8JK\\DemoJenkins\\DemoJenkins\\DemoJenkins.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Net8\\DemoJenkins\\DemoJenkins\\obj\\",
+        "outputPath": "D:\\Net8JK\\DemoJenkins\\DemoJenkins\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
